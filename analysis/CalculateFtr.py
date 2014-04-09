@@ -5,6 +5,26 @@ import sys
 import numpy as np 
 import scipy.stats
 
+import math
+
+#ignore all zero value during normalization?
+#solution: keep all the zeros, while log, z-norm only on other values
+def Normalize(ftr_dict):
+	norm_dict = {}
+	for name in ftr_dict.keys():
+		norm_dict[name] = {}
+		for idx, val in ftr_dict[name].items():
+			if val==0.0:
+				norm_dict[name][idx] = 0.0
+			else:
+				norm_dict[name][idx] = math.log(val)
+		val_list = norm_dict[name].values()
+		u = np.mean(val_list)
+		sigma = np.std(val_list)
+		for idx, val in norm_dict[name].items():
+			norm_dict[name][idx] = (val-u)/sigma
+	return norm_dict
+
 
 def CalculatePercent(feats):
 	zero_num = 0.0
@@ -14,9 +34,11 @@ def CalculatePercent(feats):
 	
 	return 1-zero_num/float(len(feats)) 
 
+
 def GetFeat(ftrdict, name, startIdx, endIdx):
 	feats = [ftrdict[name][idx] for idx in range(startIdx, endIdx)]
 	return feats
+
 
 def LoadFtr(ftrfile):
 	ftr_dict = {}
@@ -60,6 +82,7 @@ if int(end/0.01) >= total:
 x_list = range(startIdx, endIdx)
 
 #normalization
+ftr_dict = Normalize(ftr_dict)
 
 #f0 feature
 f0_list = GetFeat(ftr_dict, namelist[0], startIdx, endIdx)
