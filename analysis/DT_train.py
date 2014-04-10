@@ -37,6 +37,7 @@ Y_predict = clf.predict(X)
 #targetname=['non','contrast','ag']
 #print(classification_report(Y, Y_predict, target_names=targetname))
 
+print cross_validation.cross_val_score(clf, X, np.array(Y), cv=5, scoring='accuracy')
 print cross_validation.cross_val_score(clf, X, np.array(Y), cv=10, scoring='accuracy')
 
 dot_data = StringIO.StringIO() 

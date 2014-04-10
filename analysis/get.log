@@ -1,0 +1,134 @@
+longer than file: 1.11 1.4299999 142
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s00_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s00_01.txt 1.11 1.4299999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s01_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s01_04.txt 0.16 0.42500001
+longer than file: 0.235 0.38999999 36
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s03_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s03_06.txt 0.235 0.38999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s02_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s02_12.txt 0.57999998 0.685
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s00_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s00_08.txt 0.77499998 0.93000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s02_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s02_04.txt 0.33500001 0.47499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s02_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s02_07.txt 0.66500002 0.76999998
+longer than file: 1.4349999 2.0650001 204
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s05_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s05_11.txt 1.4349999 2.0650001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s03_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s03_07.txt 0.44499999 0.86000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s07_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s07_03.txt 0.55000001 0.90499997
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s00_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s00_05.txt 0.565 0.61500001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s07_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s07_07.txt 1.33 1.54
+longer than file: 1.33 1.5 147
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s04_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s04_11.txt 1.33 1.5
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s05_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s05_06.txt 0.51499999 0.82999998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s05_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s05_03.txt 0.105 0.33000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s05_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s05_02.txt 0.38499999 0.63999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s00_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s00_04.txt 0.36000001 0.62
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s06_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s06_03.txt 0.1 0.285
+longer than file: 0.34 0.46000001 43
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s08_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s08_03.txt 0.34 0.46000001
+longer than file: 1.775 2.1600001 213
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s03_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s03_03.txt 1.775 2.1600001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s02_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s02_05.txt 0.155 0.33000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s02_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s02_02.txt 1.13 1.45
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s03_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s03_08.txt 0.43000001 0.76999998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s01_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s01_01.txt 1.36 1.7
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s00_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s00_07.txt 0.71499997 0.88
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s08_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s08_05.txt 0.30000001 0.345
+longer than file: 0.63999999 0.92000002 92
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s01_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s01_12.txt 0.63999999 0.92000002
+longer than file: 0.41499999 0.73500001 71
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s08_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s08_01.txt 0.41499999 0.73500001
+longer than file: 0.86000001 0.97500002 95
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s03_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s03_12.txt 0.86000001 0.97500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s03_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s03_04.txt 0.185 0.38
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s03_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s03_10.txt 0.68000001 0.91000003
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s06_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s06_02.txt 0.435 0.68000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s08_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s08_12.txt 0.32499999 0.47999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s08_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s08_04.txt 0.29499999 0.495
+longer than file: 0.54000002 0.69499999 68
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s04_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s04_01.txt 0.54000002 0.69499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s08_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s08_10.txt 0.16500001 0.34999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s03_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s03_01.txt 1.225 1.485
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s05_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s05_05.txt 0.38499999 0.92000002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s01_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s01_03.txt 1.28 1.99
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s08_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s08_06.txt 0.36000001 0.41999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s01_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s01_09.txt 0.345 0.74000001
+longer than file: 0.46000001 0.505 48
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s02_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s02_10.txt 0.46000001 0.505
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s06_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s06_10.txt 1.775 2.2449999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s01_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s01_06.txt 0.19 0.45500001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s00_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s00_06.txt 0.63499999 0.755
+longer than file: 0.81 0.91000003 91
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s00_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s00_10.txt 0.81 0.91000003
+longer than file: 1.0700001 1.425 142
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s02_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s02_03.txt 1.0700001 1.425
+longer than file: 0.70499998 0.83999997 82
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s04_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s04_09.txt 0.70499998 0.83999997
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s07_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s07_01.txt 0.5 0.81
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s01_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s01_08.txt 0.43000001 0.875
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s00_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s00_11.txt 0.755 0.83499998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s07_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s07_09.txt 1.27 1.705
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s07_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s07_05.txt 0.54000002 0.77499998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s04_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s04_08.txt 0.71499997 0.85500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s08_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s08_11.txt 0.1 0.35499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s07_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s07_06.txt 0.62 0.73000002
+longer than file: 0.36500001 0.55500001 53
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s08_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s08_02.txt 0.36500001 0.55500001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s00_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s00_03.txt 1.235 1.67
+longer than file: 0.31 0.67500001 65
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s02_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s02_08.txt 0.31 0.67500001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s04_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s04_10.txt 1.37 1.575
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s01_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s01_07.txt 0.35499999 0.75
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s05_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s05_01.txt 0.17 0.38499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s06_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s06_11.txt 1.575 1.915
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s03_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s03_11.txt 0.70999998 0.95499998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s00_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s00_12.txt 0.70499998 0.755
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s02_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s02_01.txt 1 1.205
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s03_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s03_05.txt 0.175 0.36000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s07_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s07_12.txt 0.33500001 0.55500001
+longer than file: 0.52999997 0.57499999 55
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s06_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s06_09.txt 0.52999997 0.57499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s06_01.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s06_01.txt 0.5 0.78500003
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s04_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s04_04.txt 0.47499999 0.86000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s07_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s07_04.txt 0.505 0.67000002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s06_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s06_05.txt 0.41 0.84500003
+longer than file: 1.125 1.41 138
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s08_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s08_07.txt 1.125 1.41
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_ag_s07_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_ag_s07_10.txt 0.285 0.54500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s00_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s00_09.txt 0.55500001 0.77999997
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_ag_s06_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_ag_s06_06.txt 0.54500002 0.82499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s04_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s04_07.txt 0.72500002 0.85500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s06_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s06_08.txt 0.42500001 0.54500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s05_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s05_12.txt 1.115 1.33
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s07_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s07_08.txt 1.33 1.72
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s05_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s05_08.txt 0.65499997 0.91500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s04_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s04_12.txt 1.175 1.505
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s01_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s01_05.txt 0.41499999 0.63499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s07_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s07_02.txt 0.38999999 0.91000003
+longer than file: 0.55500001 0.685 66
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s04_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s04_02.txt 0.55500001 0.685
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_non_s07_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_non_s07_11.txt 0.33000001 0.56
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s05_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s05_09.txt 0.54500002 0.72500002
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s04_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s04_06.txt 0.34999999 0.52999997
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s03_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s03_09.txt 0.82499999 1.23
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s08_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s08_09.txt 1.005 1.22
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_ag_s01_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_ag_s01_10.txt 0.58999997 0.77499998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s05_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s05_07.txt 0.76999998 0.97000003
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s02_06.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s02_06.txt 0.155 0.36000001
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s05_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s05_04.txt 0.35499999 0.76999998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s01_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s01_11.txt 0.86500001 1.14
+longer than file: 0.31999999 0.50999999 48
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s02_09.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s02_09.txt 0.31999999 0.50999999
+longer than file: 0.91500002 1.21 120
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_contrast_s08_08.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_contrast_s08_08.txt 0.91500002 1.21
+longer than file: 1.145 1.475 147
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s01_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s01_02.txt 1.145 1.475
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s03_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s03_02.txt 1.52 2.0150001
+longer than file: 0.79000002 1.0 97
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_contrast_s06_07.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_contrast_s06_07.txt 0.79000002 1
+longer than file: 0.39500001 0.75 72
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_non_s04_05.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_non_s04_05.txt 0.39500001 0.75
+longer than file: 0.49000001 0.63999999 62
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/book_contrast_s04_03.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/book_contrast_s04_03.txt 0.49000001 0.63999999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s00_02.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s00_02.txt 1.3049999 1.655
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/doll_contrast_s06_04.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/doll_contrast_s06_04.txt 0.57499999 0.88499999
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_ag_s06_12.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_ag_s06_12.txt 1.615 1.865
+longer than file: 0.53500003 0.57999998 55
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/map_non_s02_11.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/map_non_s02_11.txt 0.53500003 0.57999998
+./CalculateFtr.py /home/yipeiw/Documents/Research-2014spring/vo/prosody_feat/coffee_non_s05_10.csv /home/yipeiw/Documents/Research-2014spring/vo/prosody_word_feat/coffee_non_s05_10.txt 1.17 1.42

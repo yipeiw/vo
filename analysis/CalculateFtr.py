@@ -7,22 +7,34 @@ import scipy.stats
 
 import math
 
-#ignore all zero value during normalization?
-#solution: keep all the zeros, while log, z-norm only on other values
-def Normalize(ftr_dict):
+#f0: ignore all zero value during normalization
+def Normalize(ftr_dict, choice='keep'):
 	norm_dict = {}
-	for name in ftr_dict.keys():
-		norm_dict[name] = {}
-		for idx, val in ftr_dict[name].items():
+	val_list = []
+	for idx, val in ftr_dict.items():
+		if choice=='keep':
+			norm_dict[idx] = val
+			val_list.append(norm_dict[idx])
+		else:
 			if val==0.0:
-				norm_dict[name][idx] = 0.0
+				norm_dict[idx] = 0.0
 			else:
-				norm_dict[name][idx] = math.log(val)
-		val_list = norm_dict[name].values()
-		u = np.mean(val_list)
-		sigma = np.std(val_list)
-		for idx, val in norm_dict[name].items():
-			norm_dict[name][idx] = (val-u)/sigma
+				norm_dict[idx] = math.log(val)
+				val_list.append(norm_dict[idx])
+	
+	u = np.mean(val_list)
+	sigma = np.std(val_list)
+
+	if choice=='keep':	
+		for idx, val in norm_dict.items():
+			norm_dict[idx] = (val-u)/sigma
+	else:
+		for idx, val in norm_dict.items():
+			if val==0:
+				norm_dict[idx] = 0
+			else:
+                        	norm_dict[idx] = (val-u)/sigma
+
 	return norm_dict
 
 
@@ -82,16 +94,30 @@ if int(end/0.01) >= total:
 x_list = range(startIdx, endIdx)
 
 #normalization
-ftr_dict = Normalize(ftr_dict)
+ftr_dict[namelist[0]] = Normalize(ftr_dict[namelist[0]], 'ignore')
+ftr_dict[namelist[1]] = Normalize(ftr_dict[namelist[1]])
+ftr_dict[namelist[2]] = Normalize(ftr_dict[namelist[2]])
 
 #f0 feature
 f0_list = GetFeat(ftr_dict, namelist[0], startIdx, endIdx)
-f0_mean = np.mean(f0_list)
-f0_var = np.var(f0_list)
 f0_percent = CalculatePercent(f0_list)
-f0_slope, f0_intercept, f0_r_value, f0_p_value, f0_std_err = scipy.stats.linregress(x_list, f0_list)
 
-f0_feat = [f0_mean, f0_var, f0_percent, f0_slope, f0_r_value]
+non_zero_f0 = []
+for val in f0_list:
+	if val!=0:
+		non_zero_f0 += [val]
+if len(non_zero_f0)==0:
+	f0_mean = 0
+	f0_var = 0
+	#f0_slope = 0
+	#f0_r_value = 0
+else:
+	f0_mean = np.mean(non_zero_f0)
+	f0_var = np.var(non_zero_f0)
+	#f0_slope, f0_intercept, f0_r_value, f0_p_value, f0_std_err = scipy.stats.linregress(range(0, len(non_zero_f0)), non_zero_f0)
+
+#f0_feat = [f0_mean, f0_var, f0_percent, f0_slope, f0_r_value]
+f0_feat = [f0_mean, f0_var, f0_percent]
 
 #voice quality feature
 voc_list = GetFeat(ftr_dict, namelist[1], startIdx, endIdx)
@@ -105,9 +131,8 @@ voc_feat = [voc_mean, voc_var, voc_percent]
 loud_list = GetFeat(ftr_dict, namelist[2], startIdx, endIdx)
 loud_mean = np.mean(loud_list)
 loud_var = np.var(loud_list)
-l_slope, l_intercept, l_r_value, l_p_value, l_std_err = scipy.stats.linregress(x_list, loud_list)
 
-loud_feat = [loud_mean, loud_var, l_slope, l_r_value]
+loud_feat = [loud_mean, loud_var]
 
 all_feats = f0_feat + voc_feat + loud_feat
 
